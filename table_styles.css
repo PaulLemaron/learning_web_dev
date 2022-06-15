@@ -1,0 +1,24 @@
+body{
+    color: brown;
+    background-color: cornflowerblue;
+    margin: 40px;
+
+}
+table, caption{
+    font-size: larger;
+}
+/*table, caption,*/ th,td{    /*PLEASE REMOVE THE COMMENTS ON TABLE AND CAPTION TO SEE THE CHANGE*/
+    border: 4px solid green;
+    border-collapse: collapse;
+    border-radius: 10px;
+
+}
+th,td{
+    width: 10%;
+    border-style: dotted;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+th, td{
+    background-color: #96d4d4;
+}
