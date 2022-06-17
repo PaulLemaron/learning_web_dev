@@ -1,0 +1,12 @@
+body{
+    background-color: darkblue;
+    color: darkgoldenrod;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.filling_forms{
+    background-color: aqua;
+    box-sizing: border-box;
+    float: left;
+    width: fit-content;
+    padding: 10px;
+}

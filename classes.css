@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+.city{
+    background-color: tomato;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.main{
+    text-align: center;
+}
+#myHeader{
+    background-color: bisque;
+    font-size: larger;
+}
+#C1{
+    background-color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    ;
+    padding-right: 20%;
+
+}
